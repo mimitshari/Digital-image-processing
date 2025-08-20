@@ -50,4 +50,3 @@ Improve robustness with larger and more diverse datasets.
 
 Integrate voice recognition alongside facial emotion recognition for multimodal emotion detection.
 
-✨ By combining computer vision and deep learning, this project contributes to building more empathetic and adaptive AI systems that can understand and respond to human emotions.
